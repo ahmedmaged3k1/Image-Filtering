@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "543720d9-2c94-4048-bdcc-9025f2fb23cb": {
+      "ProjectGuid": "543720d9-2c94-4048-bdcc-9025f2fb23cb",
+      "DisplayName": "ImageFilters",
+      "ColorIndex": 0
+    },
+    "819ba123-0519-4a15-82e5-a05a0c3b096b": {
+      "ProjectGuid": "819ba123-0519-4a15-82e5-a05a0c3b096b",
+      "DisplayName": "ZGraphTools",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

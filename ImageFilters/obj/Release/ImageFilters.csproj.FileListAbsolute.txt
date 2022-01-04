@@ -1,0 +1,54 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\inour\Desktop\virus\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\inour\Desktop\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+D:\Desktop\Projects\Project Data\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
